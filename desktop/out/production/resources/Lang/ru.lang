@@ -1,0 +1,64 @@
+#Meta
+package.name = Русский
+
+# ELEMENTS
+elements.WIRE = Стрелка
+elements.TRIPLE_WIRE = Тройная стрелка
+elements.LONG_WIRE = Длинная стрелка
+elements.AND = И
+elements.NOT = Не
+elements.ALL = Активный блок
+elements.XOR = XOR
+elements.BTN = Кнопка
+elements.THIRD_WIRE = Очень длинная стрелка
+elements.LIGHT = Светодиод
+elements.TIMER = Таймер
+elements.DOUBLE_WIRE = Двойная стрелка
+elements.DOUBLE_WIRE_FLIP = Двойная стрелка 2
+elements.DOUBLE_WIRE_STRAIGHT = Прямая двойная стрелка
+elements.NAND = Не и
+elements.NXOR = Не XOR
+
+rotate.UP = Вверх
+rotate.RIGHT = Вправо
+rotate.DOWN = Вниз
+rotate.LEFT = Влево
+##########
+
+#Render
+settings.restart = Изменение языка требует перезапуск игры
+settings.time = В игре
+settings.hours = ч
+settings.mins = мин
+settings.dev = Расширенные
+
+menu.scheme = Сохранить вашу схему
+menu.discord = Дискорд
+menu.settings = Настройки
+
+saves.blocks = Блоков
+saves.outdated = Устаревший
+saves.nonsupport = Не поддерживается
+
+playing.selected = выбрано
+#######
+
+
+#Pages
+pages.singleplayer = Одиночная игра
+pages.multiplayer = Игра по сети
+pages.tutorial = Обучение
+pages.exit = Выйти
+######
+
+saving.close = Отменено
+saving.save = Введите название схемы
+saving.clear = Схема очищена
+
+global.back = Назад в меню
+global.enable = Включен
+global.disable = Выключен
+global.version = Версия
+global.play = Играть
+global.yes = Да
+global.no = Нет

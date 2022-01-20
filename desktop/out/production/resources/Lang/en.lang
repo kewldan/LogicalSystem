@@ -1,0 +1,65 @@
+#Meta
+package.name = English
+
+# ELEMENTS
+elements.WIRE = Wire
+elements.TRIPLE_WIRE = Triple wire
+elements.LONG_WIRE = Long wire
+elements.AND = And
+elements.NOT = Not
+elements.ALL = All
+elements.XOR = XOR
+elements.BTN = Button
+elements.THIRD_WIRE = Very long wire
+elements.LIGHT = Light
+elements.TIMER = Timer
+elements.DOUBLE_WIRE = Double wire
+elements.DOUBLE_WIRE_FLIP = Double wire flip
+elements.DOUBLE_WIRE_STRAIGHT = Double wire straight
+elements.NAND = NAND
+elements.NXOR = NXOR
+
+rotate.UP = Up
+rotate.RIGHT = Right
+rotate.DOWN = Down
+rotate.LEFT = Left
+##########
+
+#Render
+settings.restart = Changing the language requires restarting the game
+settings.time = In game has
+settings.hours = hrs
+settings.mins = m
+settings.dev = Dev mode
+
+menu.scheme = Save your scheme
+menu.discord = Discord
+menu.settings = Settings
+
+saves.blocks = blocks
+saves.outdated = Outdated
+saves.nonsupport = Nonsupport
+
+playing.selected = selected
+#######
+
+
+#Pages
+pages.singleplayer = Singleplayer
+pages.multiplayer = Multiplayer
+pages.tutorial = Tutorial
+pages.exit = Exit
+######
+
+saving.close = Save closed
+saving.save = Enter save name
+saving.clear = Scheme cleared
+
+
+global.back = Back to menu
+global.enable = Enable
+global.disable = Disable
+global.version = Version
+global.play = Play
+global.yes = Yes
+global.no = No

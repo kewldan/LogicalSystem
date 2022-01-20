@@ -1,0 +1,11 @@
+2022-01-08 16:26:48,740 INFO HOST [main] Trying to stop server
+2022-01-08 16:26:48,770 INFO HOST [main] Hosting started
+2022-01-08 16:26:48,771 INFO HOST [main] Waiting for connections...
+2022-01-08 16:29:39,057 INFO CLIENT [main] [Dungeon master] Disconnect :: BEGIN
+2022-01-08 16:29:39,060 INFO CLIENT [main] [Dungeon master] Disconnect :: SEND
+2022-01-08 16:30:28,135 INFO HOST [main] Hosting started
+2022-01-08 16:30:28,137 INFO HOST [main] Waiting for connections...
+2022-01-08 16:30:47,809 INFO HOST [main] Trying to stop server
+2022-01-08 16:30:47,809 INFO HOST [main] Server successfully has stopped
+2022-01-08 16:30:52,407 INFO CLIENT [main] [Dungeon master] Disconnect :: BEGIN
+2022-01-08 16:30:52,408 INFO CLIENT [main] [Dungeon master] Disconnect :: SEND
